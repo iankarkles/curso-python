@@ -22,4 +22,6 @@ print("Só tem alfabéticos? {}".format(str.isalpha()))
 print("É alfanúmerico? {}".format(str.isalnum()))
 print("Está em maiúsculas? {}".format(str.isupper()))
 print("Está em minuúsculas? {}".format(str.islower()))
-print("Está capitalizada? {}".format(str[0].isupper()))
+print("Está capitalizada? {}".format(str.istitle()))
+
+#Meu código não pegaria outras palavras da frase que não fossem capitalizadas, enquanto o istitle() sim. importante verificar isso.
