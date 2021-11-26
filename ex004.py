@@ -11,7 +11,7 @@ print("Está em minuúsculas? {}".format(str.islower()))
 print("Está capitalizada? {}".format(str[0].isupper()))
 
 
-#Código
+#Código do professor
  
  
 str = input("Digite algo: ")
