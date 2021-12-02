@@ -5,7 +5,7 @@ Exercícios de Python do curso do Gustavo Guanabara de Python!
 
 Todos os exerícios desse repo possuem minha versão para o exercício, comentários e a correção do mesmo pelo professor.
 
-Para quem tiver ser interessante, seguem os links:
+Para quem tiver ser interessante em ver os vídeos (tanto novos aprendizes de python quanto pessoas mais experientes), seguem os links:
 
 [Curso de Python 3 - Mundo 1: Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 
